@@ -4,8 +4,8 @@ Simple Authentication and CRUD API
 
 ## 🔥 Showcase
 
-- [Web Client Repository](https://documenter.getpostman.com/view/25042327/2s93JtQ3v8)
-- [Postman Docs](https://documenter.getpostman.com/view/25042327/2s93JtQ3v8)
+- [Web Client Repository](https://documenter.getpostman.com/view/25042327/2s93Y3vLw1)
+- [Postman Docs](https://documenter.getpostman.com/view/25042327/2s93Y3vLw1)
 
 ## ⚡ Features
 
@@ -78,4 +78,4 @@ npm start
 
 🌟 You are all set!
 <br>
-🔥 Make sure also install [Web Client](https://documenter.getpostman.com/view/25042327/2s93JtQ3v8) for full stack experince
+🔥 Make sure also install [Web Client](https://documenter.getpostman.com/view/25042327/2s93Y3vLw1) for full stack experince
