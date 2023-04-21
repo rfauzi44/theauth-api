@@ -1,6 +1,6 @@
 # The Auth API
 
-Simple Authentication and CRUD API
+Simple Authentication and CRUD API with Express
 
 ## 🔥 Showcase
 
@@ -76,6 +76,6 @@ npx sequelize-cli db:seed:all
 npm start
 ```
 
-🌟 You are all set!
+🌟 You are all set!. Test yout localhost:APP_PORT
 <br>
 🔥 Make sure also install [Web Client](https://documenter.getpostman.com/view/25042327/2s93Y3vLw1) for full stack experince
