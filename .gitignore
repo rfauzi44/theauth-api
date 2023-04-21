@@ -1,0 +1,12 @@
+/.env
+/.vscode
+node_modules/
+public/image/*
+!public/image/default-image.jpg
+.vscode/
+
+# for seeding
+!public/image/seed1.jpg
+!public/image/seed2.jpg
+!public/image/seed3.jpg
+!public/image/seed4.jpg
