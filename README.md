@@ -4,8 +4,9 @@ Simple Authentication and CRUD API with Express
 
 ## 🔥 Showcase
 
-- [Web Client Repository](https://documenter.getpostman.com/view/25042327/2s93Y3vLw1)
+- [Web Client Repository](https://github.com/rfauzi44/theauth-web)
 - [Postman Docs](https://documenter.getpostman.com/view/25042327/2s93Y3vLw1)
+- [Docker Image](https://hub.docker.com/r/rfauzi/theauth-api)
 
 ## ⚡ Features
 
@@ -19,6 +20,7 @@ Simple Authentication and CRUD API with Express
 - [JWT](https://github.com/auth0/node-jsonwebtoken) for authentication and authorization
 - [Postgres](https://github.com/postgres/postgres) for DBMS
 - [Sequilize CLI](https://github.com/sequelize/cli) for migration and seeding
+- [Docker](https://github.com/docker) for deployment
 
 ## 🛠️ Installation Steps
 
