@@ -1,6 +1,6 @@
 # The Auth API
 
-Simple Authentication and CRUD API with Express
+Simple Authentication and CRUD with Express
 
 ## 🔥 Showcase
 
