@@ -8,7 +8,7 @@ routers.get('/', (req, res) => {
   const htmlContent = `
     <html>
       <head>
-        <title>Welcome to vehicle-rental-api!</title>
+        <title>Welcome to theauth-api</title>
       </head>
       <body>
         <p>Hello World! This is theauth-api. You can check Postman Documentation <a href="https://documenter.getpostman.com/view/25042327/2s93Y3vLw1">here</a></p>

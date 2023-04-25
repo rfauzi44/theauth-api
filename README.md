@@ -17,7 +17,7 @@ Simple Authentication and CRUD API with Express
 
 - [NodeJS](https://github.com/nodejs/node) for the server side scripting
 - [Express JS](https://github.com/exprjs/express) for handling HTTP requests and responses
-- [JWT](https://github.com/auth0/node-jsonwebtoken) for authentication and authorization
+- [JWT](https://github.com/auth0/node-jsonwebtoken) for authentication
 - [Postgres](https://github.com/postgres/postgres) for DBMS
 - [Sequilize CLI](https://github.com/sequelize/cli) for migration and seeding
 - [Docker](https://github.com/docker) for deployment
