@@ -17,7 +17,7 @@ services:
       - database
     restart: unless-stopped
     ports:
-      - "3001:3001"
+      - "3001:443"
     env_file:
       - .env
     networks:

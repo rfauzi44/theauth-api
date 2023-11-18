@@ -15,5 +15,9 @@ RUN npm install
 # Bundle app source
 COPY . .
 
+RUN npx sequelize-cli db:migrate
+
+RUN npx sequelize-cli db:seed:all
+
 EXPOSE 443
 CMD [ "node", "app.js" ]

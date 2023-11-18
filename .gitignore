@@ -10,3 +10,5 @@ public/image/*
 !public/image/seed2.jpg
 !public/image/seed3.jpg
 !public/image/seed4.jpg
+
+/fly.toml
